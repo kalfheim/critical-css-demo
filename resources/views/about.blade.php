@@ -1,5 +1,9 @@
 @extends('master')
 
+@section('critical-css')
+    @criticalCss('about')
+@endsection
+
 @section('content')
 
     <!-- Page Header -->

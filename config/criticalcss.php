@@ -68,16 +68,7 @@ return [
     | @see https://github.com/bezoerb/filter-css
     |
     */
-    'ignore' => [
-        // Removes @font-face blocks
-        // '@font-face',
-
-        // Removes CSS selector
-        // '.selector',
-
-        // JS Regex, matches url(..) rules
-        // '/url(/',
-    ],
+    'ignore' => [],
 
     /*
     |--------------------------------------------------------------------------

@@ -145,6 +145,9 @@ return [
         App\Providers\EventServiceProvider::class,
         App\Providers\RouteServiceProvider::class,
 
+        // critical-css Service Provider.
+        Krisawzm\CriticalCss\CriticalCssServiceProvider::class,
+
     ],
 
     /*
